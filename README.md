@@ -11,4 +11,5 @@ Steps:
 # 7 Zustand installed "userStore.js"
 # 8 AddUser, BlockUser functionality created
 Preview:
-![Chat jpeg](https://github.com/user-attachments/assets/00ff7bf8-1500-463d-856a-dbd4a6ce4f73)
+
+![ChatApp jpeg](https://github.com/user-attachments/assets/887aa665-ef13-410e-a5c5-4071cd1c42d1)
