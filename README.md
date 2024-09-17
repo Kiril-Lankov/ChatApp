@@ -1,4 +1,4 @@
-# React + Vite
+# Used technologies: JS React + Firebase
 
 Steps:
 
@@ -10,3 +10,5 @@ Steps:
 # 6 Firebase installed "firestore.js"
 # 7 Zustand installed "userStore.js"
 # 8 AddUser, BlockUser functionality created
+Preview:
+![Chat jpeg](https://github.com/user-attachments/assets/00ff7bf8-1500-463d-856a-dbd4a6ce4f73)
